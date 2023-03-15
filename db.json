@@ -12,8 +12,18 @@
     },
     {
       "id": 2,
-      "name": "Rakhi Swabant",
-      "title":"Java developer"
+      "name": "abu Dhabi",
+      "title":"Backend developer"
+    },
+    {
+      "id": 3,
+      "name": "Siraj Uddin",
+      "title":"Fullstack Web Developer"
+    },
+    {
+      "id": 4,
+      "name": "Nasir Uddin",
+      "title":"React Developer"
     }
   ]
 }
