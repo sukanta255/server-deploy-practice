@@ -9,6 +9,11 @@
       "id": 1,
       "name": "Sukanta Pramanik",
       "title":"Fullstack Web developer"
+    },
+    {
+      "id": 2,
+      "name": "Rakhi Swabant",
+      "title":"Java developer"
     }
   ]
 }
