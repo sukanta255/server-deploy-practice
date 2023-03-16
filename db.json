@@ -5,26 +5,6 @@
     {"id":3, "title": "NextJs", "author": "Ritesh Firodiya"}
   ],
   "users":[
-    {
-      "id": 1,
-      "name": "Sukanta Pramanik",
-      "title":"Fullstack Web developer"
-    },
-    {
-      "id": 2,
-      "name": "abu Dhabi",
-      "title":"Backend developer"
-    },
-    {
-      "id": 3,
-      "name": "Siraj Uddin",
-      "title":"Fullstack Web Developer"
-    },
-    {
-      "id": 4,
-      "name": "Nasir Uddin",
-      "title":"React Developer"
-    }
   ],
   "hotels":[
   {
