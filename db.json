@@ -46,5 +46,37 @@
   }
 ],
 "hotel":[
-]	
+],
+"cars":[
+  {
+    "brand":"tata",
+    "year":2016,
+    "kms":200,
+    "description":"abcdefgh",
+    "price":50000,
+    "id":1
+  },
+  {
+    "brand":"tata1",
+    "year":2017,
+    "kms":205,
+    "description":"abcdefghfdgfdgfd",
+    "price":60000,
+    "id":2
+  },{
+    "brand":"tata2",
+    "year":2016,
+    "kms":210,
+    "description":"abcdefghfdgfd,lkllkgfd",
+    "price":70000,
+    "id":3
+  },{
+    "brand":"tata3",
+    "year":2015,
+    "kms":215,
+    "description":"abcdefghfdgfdgfdgfgfd",
+    "price":70000,
+    "id":4
+  }
+]
 }
